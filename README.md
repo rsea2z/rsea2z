@@ -1,5 +1,5 @@
 <div align="center">
-  <h3> Junie ⚡🏎 </h3>
+  <h3> 🏎 Junie ⚡ </h3>
   
   <a href="https://github.com/rsea2z">
     <img src="https://github-rsea2z.vercel.app/api?username=rsea2z&show_icons=true&theme=algolia&count_private=true&hide_border=true" height="170" alt="rsea2z's Stats" />
